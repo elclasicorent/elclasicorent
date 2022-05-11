@@ -1291,7 +1291,7 @@ Responsive
   .main-sidebar .mb-warp {
     padding: 5px 15px;
     max-width: 420px;
-    margin: 100px auto;
+    margin-top: 100px auto;
   }
   .main-sidebar-contact .mb-warp {
     padding: 5px 15px;
